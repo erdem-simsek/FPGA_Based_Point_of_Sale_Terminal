@@ -1,0 +1,21 @@
+EE314 Project Group19 Pin Assignments
+
+button_1 = PIN_AA14 
+button_2 = PIN_AA15
+button_3 = PIN_W15
+button_4 = PIN_Y16
+clk25 	 = PIN_A11
+clk50	 = PIN_AF14
+hsync	 = PIN_B11
+vsync	 = PIN_D11
+sw1	 = PIN_AB12
+sw2	 = PIN_AC12
+vgaB	 = PIN_G15
+vgaB1	 = PIN_J14
+vgaG	 = PIN_G12
+vgaG1 	 = PIN_F11
+vgaG2	 = PIN_E11
+vgaR	 = PIN_D12
+vgaR1	 = PIN_E12
+vgaR2	 = PIN_F13
+
